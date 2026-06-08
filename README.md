@@ -10,6 +10,6 @@ playwright install chromium
 # Run
 
 ```
-python3 t4.py
+python3 t4.py "Donald Trump"
 ```
 
